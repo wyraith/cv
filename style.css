@@ -80,7 +80,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('asset/4.gif');
+    background-image: url('4.gif');
     background-size: cover;
     background-position: center;
     color: white;
@@ -341,3 +341,4 @@ body {
         grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     }
 }
+
